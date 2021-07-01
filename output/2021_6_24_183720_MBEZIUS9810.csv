@@ -1,7 +1,0 @@
-level_0,Account Status,Account Type,Authentication Mechanism,Creation date,Current Roles Assigned,Department,E-mail address,Last Logon,Last Password Change,Organization,Password Status,Previous Roles Assigned,Username,index
-0,Active,User,Local,3/2/2016,Root,Network Operations,,2021-05-13 11:10:48,2021-05-07 18:14:45,VTL,Active,Root,hmogasa,0
-1,Active,User,EMS,12/11/2018,User,Network Operations,hmogasa@vodacom.co.tz,2021-05-28 11:42:05,2021-01-15 00:00:00,VTL,Inactive,User,minjaj,1
-2,Active,User,EMS,9/6/2017,User,Network Operations,munishio@vodacom.co.tz,2021-05-31 09:56:18,2021-01-28 00:00:00,VTL,Inactive,User,sshirima,2
-3,Active,User,EMS,12/5/2016,Administrator,Network Operations,sshirima@vodacom.co.tz,2021-05-05 13:34:21,2021-04-30 00:00:00,VTL,Active,Administrator,vmhina,3
-4,Active,User,EMS,1/15/2018,Administrator,Network Operations,minjaj@vodacom.co.tz,2021-05-04 00:00:00,2021-03-31 00:00:00,VTL,Inactive,Administrator,minjaj,4
-5,Active,User,EMS,12/5/2016,User,Network Performance,vmhina@vodacom.co.tz,2021-05-04 00:00:00,2021-05-04 00:00:00,VTL,Active,User,vmhina,5
